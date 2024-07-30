@@ -1,2 +1,1 @@
-# HTML
-Esta es mi pagina web (ejercicio)
+este proyecto es la pagina web
